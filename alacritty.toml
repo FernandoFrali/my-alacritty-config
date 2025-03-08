@@ -12,11 +12,11 @@ opacity = 0.9
 [font]
 normal.family = "JetBrainsMono Nerd Font Mono"
 normal.style = "Regular"
-bold.family = "JetBrainsMono Nerd Font Mono"
-bold.style = "Bold"
-italic.family = "JetBrainsMono Nerd Font Mono"
-italic.style = "Italic"
 size = 14
+
+[colors]
+cursor.text = "#000000"
+cursor.cursor = "#ffffff"
 
 [colors.primary]
 background = "#161616"
@@ -46,3 +46,5 @@ red = "#ee5396"
 cyan = "#3ddbd9"
 white = "#ffffff"
 
+[mouse]
+hide_when_typing = true
