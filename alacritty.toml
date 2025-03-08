@@ -1,0 +1,48 @@
+general.working_directory = "/Users/fernandofrali/Documents"
+
+[window]
+dimensions.columns = 140
+dimensions.lines = 45
+decorations = "Buttonless"
+padding.x = 10
+padding.y = 10
+dynamic_padding = true
+opacity = 0.9
+
+[font]
+normal.family = "JetBrainsMono Nerd Font Mono"
+normal.style = "Regular"
+bold.family = "JetBrainsMono Nerd Font Mono"
+bold.style = "Bold"
+italic.family = "JetBrainsMono Nerd Font Mono"
+italic.style = "Italic"
+size = 14
+
+[colors.primary]
+background = "#161616"
+foreground = "#ffffff"
+
+[colors.search.matches]
+foreground = "CellBackground"
+background = "#ee5396"
+
+[colors.normal]
+black = "#262626"
+magenta = "#ff7eb6"
+green = "#42be65"
+yellow = "#ffe97b"
+blue = "#33b1ff"
+red = "#ee5396"
+cyan = "#3ddbd9"
+white = "#dde1e6"
+
+[colors.bright]
+black = "#393939"
+magenta = "#ff7eb6"
+green = "#42be65"
+yellow = "#ffe97b"
+blue = "#33b1ff"
+red = "#ee5396"
+cyan = "#3ddbd9"
+white = "#ffffff"
+
