@@ -14,37 +14,33 @@ normal.family = "JetBrainsMono Nerd Font Mono"
 normal.style = "Regular"
 size = 14
 
-[colors]
-cursor.text = "#000000"
-cursor.cursor = "#ffffff"
-
 [colors.primary]
-background = "#161616"
-foreground = "#ffffff"
+background = '#000000'
+foreground = '#ffffff'
 
-[colors.search.matches]
-foreground = "CellBackground"
-background = "#ee5396"
+[colors.cursor]
+text = '#000000'
+cursor = '#CED773'
 
+# Normal colors
 [colors.normal]
-black = "#262626"
-magenta = "#ff7eb6"
-green = "#42be65"
-yellow = "#ffe97b"
-blue = "#33b1ff"
-red = "#ee5396"
-cyan = "#3ddbd9"
-white = "#dde1e6"
+black   = '#161616'
+red     = '#ee5396'
+green   = '#42be65'
+yellow  = '#ff7eb6'
+blue    = '#33b1ff'
+magenta = '#be95ff'
+cyan    = '#3ddbd9'   
+white   = '#ffffff'  
 
+# Bright colors
 [colors.bright]
-black = "#393939"
-magenta = "#ff7eb6"
-green = "#42be65"
-yellow = "#ffe97b"
-blue = "#33b1ff"
-red = "#ee5396"
-cyan = "#3ddbd9"
-white = "#ffffff"
+black   = '#525252'
+red     = '#ee5396'
+green   = '#42be65'
+yellow  = '#ff7eb6'
+blue    = '#33b1ff'
+magenta = '#be95ff'
+cyan    = '#3ddbd9'   
+white   = '#ffffff'  
 
-[mouse]
-hide_when_typing = true
