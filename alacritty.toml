@@ -7,40 +7,37 @@ decorations = "Buttonless"
 padding.x = 10
 padding.y = 10
 dynamic_padding = true
-opacity = 0.9
+# opacity = 0.9
 
 [font]
-normal.family = "JetBrainsMono Nerd Font Mono"
-normal.style = "Regular"
-size = 14
+normal.family = "Cozette"
+normal.style = "Medium"
+size = 16
 
-[colors.primary]
-background = '#000000'
-foreground = '#ffffff'
+[colors.bright]
+black = "#3D3839"
+red = "#E8838F"
+green = "#8BAE68"
+yellow = "#D68C67"
+blue = "#61ABDA"
+magenta = "#CF86C1"
+cyan = "#65B8C1"
+white = "#8E8E8E"
 
 [colors.cursor]
-text = '#000000'
-cursor = '#CED773'
+cursor = "#C9C9C9"
+text = "#191919"
 
-# Normal colors
 [colors.normal]
-black   = '#161616'
-red     = '#ee5396'
-green   = '#42be65'
-yellow  = '#ff7eb6'
-blue    = '#33b1ff'
-magenta = '#be95ff'
-cyan    = '#3ddbd9'   
-white   = '#ffffff'  
+black = "#191919"
+blue = "#6099C0"
+cyan = "#66A5AD"
+green = "#819B69"
+magenta = "#B279A7"
+red = "#DE6E7C"
+white = "#BBBBBB"
+yellow = "#B77E64"
 
-# Bright colors
-[colors.bright]
-black   = '#525252'
-red     = '#ee5396'
-green   = '#42be65'
-yellow  = '#ff7eb6'
-blue    = '#33b1ff'
-magenta = '#be95ff'
-cyan    = '#3ddbd9'   
-white   = '#ffffff'  
-
+[colors.primary]
+background = "#191919"
+foreground = "#BBBBBB"
