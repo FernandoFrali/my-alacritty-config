@@ -1,4 +1,4 @@
-general.working_directory = "/Users/fernandofrali/Documents"
+general.working_directory = "/Users/fernandofrali/dev"
 
 [window]
 dimensions.columns = 140
@@ -51,3 +51,4 @@ blue    = "#aaaaaa"
 magenta = "#879aad"
 cyan    = "#49c4c4"
 white   = "#ffffff"
+
