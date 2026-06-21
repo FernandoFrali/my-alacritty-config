@@ -11,9 +11,13 @@ opacity = 0.9
 
 [font]
 normal.family = "MonoLisa"
-normal.style = "ExtraLight"
-italic.style = "Italic"
-bold.style = "Light"
+normal.style = "Light"
+italic.family = "MonoLisa"
+italic.style = "ExtraLight Italic"
+bold.family = "MonoLisa"
+bold.style = "ExtraLight Italic"
+bold_italic.family = "MonoLisa"
+bold_italic.style = "ExtraLight Italic"
 size = 14.0
 
 [colors.primary]
@@ -47,4 +51,3 @@ blue    = "#aaaaaa"
 magenta = "#879aad"
 cyan    = "#49c4c4"
 white   = "#ffffff"
-
